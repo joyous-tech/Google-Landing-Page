@@ -218,12 +218,12 @@ nav{
 }
 
 }
-@media screen and (max-width: 350px){
+@media screen and (min-width: 375px){
     h1{
         font-family: 'Montserrat', sans-serif;
         font-size: 2em;
         position:absolute;
-        top: 45%;
+        top: 60%;
         right: 25%;
         margin: auto; 
     }
