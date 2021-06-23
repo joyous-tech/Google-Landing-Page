@@ -36,12 +36,13 @@ input[type=search] {
     width: 50vw;
     border: none;
     position: absolute;
-    top: 45%;
+    top: 50%;
     left: 25%;
     height: 8vh;
     border-top: 0.3 px solid rgb(145, 142, 142);
     border-right: 0.3 px solid rgb(145, 142, 142);
     margin:auto;
+    font-size: 4em;
     box-shadow: 5px 12px 11px -12px rgba(174,159,159,0.75);
     border-radius: 15px;
 
@@ -221,9 +222,9 @@ nav{
 @media screen and (min-width: 375px){
     h1{
         font-family: 'Montserrat', sans-serif;
-        font-size: 2em;
+        font-size: 4sem;
         position:absolute;
-        top: 60%;
+        top: 50%;
         right: 25%;
         margin: auto; 
     }
