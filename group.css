@@ -154,6 +154,11 @@ nav{
         font-size: 1em;
         letter-spacing: 0px;
         }
+
+        input [type=text]:focus{
+            border: none;
+            outline: none;
+        }
 }
 
 @media screen and (max-width: 500px){
@@ -178,7 +183,7 @@ nav{
         font-size:0.6em ;
         font-weight: 500;
         width: 30vw;
-        height: 5.5vh;
+        height: 7vh;
         top: 60%;
         font-size: 14px;
         left:20%;
@@ -188,7 +193,7 @@ nav{
         font-size: 0.6em;
         font-weight: 500;
         width: 30vw;
-        height: 5.5vh;
+        height: 7vh;
         top: 60%;
         font-size: 14px;
         left:52%;
